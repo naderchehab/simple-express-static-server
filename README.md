@@ -1,10 +1,10 @@
-Simple Express Static File Server
-=================================
+Simple Express Static File Server with basic auth
+=================================================
 
 Description
 -----------
 
-A very simple static file server. For development use only.
+A very simple static file server with basic auth. For development use only.
 
 Install dependencies (first time only):
 
